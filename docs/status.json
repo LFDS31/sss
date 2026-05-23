@@ -1,0 +1,113 @@
+{
+  "status": "Actif",
+  "last_run": "2026-05-05T12:11:41.425138",
+  "emails_processed": 0,
+  "emails_processed_date": "2026-05-05",
+  "active_contacts": 0,
+  "routines_this_week": 7,
+  "activity": [
+    {
+      "time": "12:11",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "11:03",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "09:20",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "07:08",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "04:45",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "01:20",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "23:39",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "22:42",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "21:40",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "20:24",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "18:59",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "17:13",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "09:30",
+      "type": "crm",
+      "message": "Routine du matin terminee - 5 actions executees, 2 emails traites"
+    },
+    {
+      "time": "14:15",
+      "type": "email",
+      "message": "Relances prospects terminee - 3 actions executees, 1 email traite"
+    },
+    {
+      "time": "09:00",
+      "type": "crm",
+      "message": "Routine du matin terminee - 8 actions executees, 4 emails traites"
+    },
+    {
+      "time": "16:30",
+      "type": "systeme",
+      "message": "Audit hebdomadaire termine - rapport KPI genere"
+    },
+    {
+      "time": "09:15",
+      "type": "email",
+      "message": "Routine du matin terminee - 6 actions executees, 3 brouillons crees"
+    }
+  ],
+  "livrables": {
+    "devis_count": 0,
+    "propositions_count": 0,
+    "total_montant": 0,
+    "recent": []
+  },
+  "contacts": [],
+  "deals": [],
+  "missions": [],
+  "budget": {
+    "ca_total": 0,
+    "pipeline_value": 0,
+    "expenses": 0,
+    "margin_percent": 0,
+    "acceptance_rate": 0,
+    "ca_mensuel": [],
+    "transactions": []
+  }
+}
