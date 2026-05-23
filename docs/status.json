@@ -1,0 +1,122 @@
+{
+  "status": "Actif",
+  "last_run": "2026-04-22T20:10:03.976593",
+  "emails_processed": 201,
+  "active_contacts": 777,
+  "active_companies": 303,
+  "pipeline_value": 80000,
+  "deals_count": 10,
+  "routines_this_week": 30,
+  "deals_by_stage": {
+    "qualifiedtobuy": 10,
+    "appointmentscheduled": 1
+  },
+  "activity": [
+    {
+      "time": "20:10",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "18:53",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "17:46",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "16:45",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "15:45",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "14:12",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "12:11",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "11:15",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "09:56",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "08:12",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "06:17",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "04:19",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "01:08",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "23:41",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "22:53",
+      "type": "crm",
+      "message": "Routine du matin terminee - 0 actions executees"
+    },
+    {
+      "time": "21:58",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "21:06",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "20:08",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "18:50",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "17:46",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    }
+  ],
+  "livrables": {
+    "devis_count": 0,
+    "propositions_count": 0,
+    "total_montant": 0,
+    "recent": []
+  }
+}
