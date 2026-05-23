@@ -1,0 +1,33 @@
+[build]
+  command = "npm install && npm run build"
+  publish = "docs"
+
+[build.environment]
+  NODE_VERSION = "20"
+  VITE_BASE = "/quiz/"
+  VITE_OUT_DIR = "docs/quiz"
+
+[context.deploy-preview]
+  publish = "docs"
+
+[context.branch-deploy]
+  publish = "docs"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[redirects]]
+  from = "/quiz/*"
+  to = "/quiz/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
