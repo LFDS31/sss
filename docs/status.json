@@ -1,0 +1,58 @@
+{
+  "status": "Actif",
+  "last_run": "2026-05-04T17:13:28.043461",
+  "emails_processed": 7,
+  "emails_processed_date": "2026-05-04",
+  "active_contacts": 0,
+  "routines_this_week": 15,
+  "activity": [
+    {
+      "time": "17:13",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
+    {
+      "time": "09:30",
+      "type": "crm",
+      "message": "Routine du matin terminee - 5 actions executees, 2 emails traites"
+    },
+    {
+      "time": "14:15",
+      "type": "email",
+      "message": "Relances prospects terminee - 3 actions executees, 1 email traite"
+    },
+    {
+      "time": "09:00",
+      "type": "crm",
+      "message": "Routine du matin terminee - 8 actions executees, 4 emails traites"
+    },
+    {
+      "time": "16:30",
+      "type": "systeme",
+      "message": "Audit hebdomadaire termine - rapport KPI genere"
+    },
+    {
+      "time": "09:15",
+      "type": "email",
+      "message": "Routine du matin terminee - 6 actions executees, 3 brouillons crees"
+    }
+  ],
+  "livrables": {
+    "devis_count": 0,
+    "propositions_count": 0,
+    "total_montant": 0,
+    "recent": []
+  },
+  "contacts": [],
+  "deals": [],
+  "missions": [],
+  "budget": {
+    "ca_total": 0,
+    "pipeline_value": 0,
+    "expenses": 0,
+    "margin_percent": 0,
+    "acceptance_rate": 0,
+    "ca_mensuel": [],
+    "transactions": []
+  }
+}
