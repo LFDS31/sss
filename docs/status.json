@@ -1,11 +1,16 @@
 {
   "status": "Actif",
-  "last_run": "2026-07-01T19:20:50.877496",
+  "last_run": "2026-07-01T20:59:11.034942",
   "emails_processed": 0,
   "emails_processed_date": "2026-07-01",
   "active_contacts": 0,
-  "routines_this_week": 19,
+  "routines_this_week": 20,
   "activity": [
+    {
+      "time": "20:59",
+      "type": "crm",
+      "message": "Relances prospects terminee - 0 actions executees"
+    },
     {
       "time": "19:20",
       "type": "crm",
@@ -98,11 +103,6 @@
     },
     {
       "time": "23:16",
-      "type": "crm",
-      "message": "Routine du matin terminee - 0 actions executees"
-    },
-    {
-      "time": "22:16",
       "type": "crm",
       "message": "Routine du matin terminee - 0 actions executees"
     }
